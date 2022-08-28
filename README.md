@@ -18,7 +18,7 @@ As newbie data science youtuber need information on the top channels for data sc
 
 ### Data
 Data was gathered from youtube using the google youtube Api v3 to request the for the data in json format 
-[Click here for the data gahering Notebook]
+[Click here for the data gahering Notebook](https://github.com/Ayobami6/Youtube-Analysis/blob/master/Youtube_data_analysis.ipynb ) 
 
 ### Analysis 
 Analysis was the carried out on Tableau to obtain top insights on data science youtube channel 
