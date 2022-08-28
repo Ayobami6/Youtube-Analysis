@@ -6,15 +6,15 @@
 Low channel Subsribers
 
 ### Solution 
-Know What the Viewers want to watch 
+Know What the Viewers want to watch. 
 As newbie data science youtuber need information on the top channels for data science and the channels for look up to for their content and get more ideas from their contents so as to create new and unique contents to attract new subscribers.
 
 ### How?
-Get their data
-Determine the overall top players
-Determine the young channels i.e channels less than 4 years old with the most subscribers
-Determing the rising star i.e the very young channels less 2 years having good number of subscribers
-Check out the identified channels to see what they are doing and i'm not by subscribing to them and keep track of their contents 
+>- Get their data
+>- Determine the overall top players
+>- Determine the young channels i.e channels less than 4 years old with the most subscribers
+>- Determing the rising star i.e the very young channels less 2 years having good number of subscribers
+>- Check out the identified channels to see what they are doing and i'm not by subscribing to them and keep track of their contents 
 
 ### Data
 Data was gathered from youtube using the google youtube Api v3 to request the for the data in json format 
@@ -40,13 +40,15 @@ Moreso, Noticed Thu Vu data Analytics the youngest (1year 4 months old)in the li
 #### Recommendation
 ![img](DS-YT-Dashboard-2.png)
 From the result, channels to look out for to know what the client might likely want to see are 
-Alex the Analyst
-Simplilearn
-Freecodecamp
-Luke Barouse
-NeuralNine
-Data Professor 
-Thu vu data analytics 
+* Alex the Analyst
+* Simplilearn
+* Freecodecamp
+* Luke Barouse
+* NeuralNine
+* Data Professor
+* Tina Huang 
+* Ken Jee 
+* Thu vu data analytics 
 
 #### Bonus insights 
 CodewithHarry channel has rather high subscribers among peers of young channel with 3.17m subsriber, After being checked notice most of the channel video is in native language, Maybe i should start using language too haha!!!
