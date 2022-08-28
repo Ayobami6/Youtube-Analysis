@@ -21,7 +21,8 @@ Data was gathered from youtube using the google youtube Api v3 to request the fo
 [Click here for the data gahering Notebook]
 
 ### Analysis 
-Analysis was the carried out on Tableau to obtain top insights on data science youtube channel 
+Analysis was the carried out on Tableau to obtain top insights on data science youtube channel
+[Click here for the analysis](https://public.tableau.com/views/Youtube-Analysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Findings and Conclusion 
 #### First insight:
